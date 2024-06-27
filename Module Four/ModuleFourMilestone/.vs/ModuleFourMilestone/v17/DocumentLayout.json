@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tdavi\\OneDrive\\Documents\\SNHU Classes\\Secure Coding\\Module Four\\ModuleFourMilestone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7FAA4A4-6C5F-43F9-98E0-21E36EAE1E3C}|ModuleFourMilestone\\ModuleFourMilestone.vcxproj|C:\\Users\\tdavi\\OneDrive\\Documents\\SNHU Classes\\Secure Coding\\Module Four\\ModuleFourMilestone\\ModuleFourMilestone\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E7FAA4A4-6C5F-43F9-98E0-21E36EAE1E3C}|ModuleFourMilestone\\ModuleFourMilestone.vcxproj|solutionrelative:ModuleFourMilestone\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "C:\\Users\\tdavi\\OneDrive\\Documents\\SNHU Classes\\Secure Coding\\Module Four\\ModuleFourMilestone\\ModuleFourMilestone\\test.cpp",
+              "RelativeDocumentMoniker": "ModuleFourMilestone\\test.cpp",
+              "ToolTip": "C:\\Users\\tdavi\\OneDrive\\Documents\\SNHU Classes\\Secure Coding\\Module Four\\ModuleFourMilestone\\ModuleFourMilestone\\test.cpp",
+              "RelativeToolTip": "ModuleFourMilestone\\test.cpp",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAABEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-02T04:48:57.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

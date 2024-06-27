@@ -1,0 +1,4 @@
+﻿  QuestionableCode.cpp
+C:\Users\tdavi\OneDrive\Documents\SNHU Classes\Secure Coding\Module Five\Module5-3Assignment\Module5-3Assignment\QuestionableCode.cpp(52,9): warning C4297: 'MySpecialType::DontThrow': function assumed not to throw an exception but does
+C:\Users\tdavi\OneDrive\Documents\SNHU Classes\Secure Coding\Module Five\Module5-3Assignment\Module5-3Assignment\QuestionableCode.cpp(129,5): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+  Module5-3Assignment.vcxproj -> C:\Users\tdavi\OneDrive\Documents\SNHU Classes\Secure Coding\Module Five\Module5-3Assignment\x64\Debug\Module5-3Assignment.exe

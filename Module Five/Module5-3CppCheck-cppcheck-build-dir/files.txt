@@ -1,0 +1,4 @@
+QuestionableCode.a1:Debug|Win32:C:/Users/tdavi/OneDrive/Documents/SNHU Classes/Secure Coding/Module Five/Module5-3Assignment/Module5-3Assignment/QuestionableCode.cpp
+QuestionableCode.a2:Release|Win32:C:/Users/tdavi/OneDrive/Documents/SNHU Classes/Secure Coding/Module Five/Module5-3Assignment/Module5-3Assignment/QuestionableCode.cpp
+QuestionableCode.a3:Debug|x64:C:/Users/tdavi/OneDrive/Documents/SNHU Classes/Secure Coding/Module Five/Module5-3Assignment/Module5-3Assignment/QuestionableCode.cpp
+QuestionableCode.a4:Release|x64:C:/Users/tdavi/OneDrive/Documents/SNHU Classes/Secure Coding/Module Five/Module5-3Assignment/Module5-3Assignment/QuestionableCode.cpp
